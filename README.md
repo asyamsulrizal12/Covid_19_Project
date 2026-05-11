@@ -5,8 +5,7 @@ This project forecasts daily COVID-19 cases in Indonesia using **ARIMA**, **Prop
 It combines data collection, preprocessing, exploratory analysis, model training, and visualization into a complete workflow.
 
 ## 📂 Repository Structure
-<img width="514" height="573" alt="image" src="https://github.com/user-attachments/assets/8aa3f478-7103-41a5-89c5-a22dec5576a6" />
-
+<img width="510" height="556" alt="image" src="https://github.com/user-attachments/assets/060817c1-6e58-4494-b0df-b3608ec18577" />
 
 ## 🚀 How to Run
 1. Clone the repository:
