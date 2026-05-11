@@ -24,10 +24,10 @@ b. Tables: error metrics, forecast results.\
 c. Narratives: technical insights (covid_forecasting_insights.md) and executive summary (executive_summary.md).\
 d. Log: run history (log.txt).
 
-🛠️ Models
+## 🛠️ Models
 a. ARIMA → best short-term accuracy.\
 b. Prophet → captures long-term seasonality.\
 c. LSTM → flexible, requires tuning.
 
-📈 Data Source
+## 📈 Data Source
 Disease.sh API — global COVID-19 data
