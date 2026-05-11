@@ -19,14 +19,14 @@ It combines data collection, preprocessing, exploratory analysis, model training
    streamlit run dashboards/streamlit_app.py
 
 ## 📊 Reports
-a. Figures: model comparison, trend, seasonality, growth rate, etc.
-b. Tables: error metrics, forecast results.
-c. Narratives: technical insights (covid_forecasting_insights.md) and executive summary (executive_summary.md).
+a. Figures: model comparison, trend, seasonality, growth rate, etc.\
+b. Tables: error metrics, forecast results.\
+c. Narratives: technical insights (covid_forecasting_insights.md) and executive summary (executive_summary.md).\
 d. Log: run history (log.txt).
 
 🛠️ Models
-a. ARIMA → best short-term accuracy.
-b. Prophet → captures long-term seasonality.
+a. ARIMA → best short-term accuracy.\
+b. Prophet → captures long-term seasonality.\
 c. LSTM → flexible, requires tuning.
 
 📈 Data Source
