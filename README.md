@@ -45,8 +45,8 @@ c. LSTM → flexible, requires tuning.
 Disease.sh API — global COVID-19 data
 
 ## 🔹 Example Impact
-This project illustrates how different forecasting models can guide resource allocation and policy response during a pandemic. Recruiters and hiring managers can see practical skills in:
+This project illustrates how different forecasting models can guide resource allocation and policy response during a pandemic. Recruiters and hiring managers can see practical skills in:\
 a. End-to-end pipeline design.\
 b. Model evaluation & comparison.\
 c. Storytelling with data.\
-d. Deploying insights via dashboards.\
+d. Deploying insights via dashboards.
