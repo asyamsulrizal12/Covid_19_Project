@@ -1,8 +1,15 @@
 # COVID-19 Prediction Dashboard
 
 ## 📌 Project Overview
-This project forecasts daily COVID-19 cases in Indonesia using **ARIMA**, **Prophet**, and **LSTM** models.  
-It combines data collection, preprocessing, exploratory analysis, model training, and visualization into a complete workflow.
+This project demonstrates an end-to-end data science workflow for forecasting daily COVID-19 cases in Indonesia.  
+It integrates:
+- **Data collection** from the Disease.sh API
+- **Preprocessing & feature engineering**
+- **Exploratory Data Analysis (EDA)**
+- **Model training** with ARIMA, Prophet, and LSTM
+- **Evaluation & visualization** through a Streamlit dashboard
+
+The goal is to compare model performance and provide actionable insights for healthcare planning and policy decisions.
 
 ## 📂 Repository Structure
 <img width="510" height="556" alt="image" src="https://github.com/user-attachments/assets/060817c1-6e58-4494-b0df-b3608ec18577" />
