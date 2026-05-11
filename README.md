@@ -5,34 +5,8 @@ This project forecasts daily COVID-19 cases in Indonesia using **ARIMA**, **Prop
 It combines data collection, preprocessing, exploratory analysis, model training, and visualization into a complete workflow.
 
 ## 📂 Repository Structure
-Covid_19_Project/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_EDA.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_model_training.ipynb
-│   └── 05_evaluation_visualization.ipynb
-│
-├── src/
-│   ├── api_loader.py
-│   ├── preprocessing.py
-│   ├── eda.py
-│   ├── models.py
-│   └── utils.py
-│
-├── dashboards/
-│   └── streamlit_app.py
-│
-├── reports/
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
+<img width="514" height="573" alt="image" src="https://github.com/user-attachments/assets/8aa3f478-7103-41a5-89c5-a22dec5576a6" />
+
 
 ## 🚀 How to Run
 1. Clone the repository:
