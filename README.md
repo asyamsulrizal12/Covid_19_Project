@@ -2,14 +2,20 @@
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end data science workflow for forecasting daily COVID-19 cases in Indonesia.  
-It integrates:
+It showcases how analytics and machine learning can support **healthcare planning and policy decisions** by comparing three forecasting approaches: **ARIMA**, **Prophet**, and **LSTM**.
+
+The workflow covers:
 - **Data collection** from the Disease.sh API
 - **Preprocessing & feature engineering**
 - **Exploratory Data Analysis (EDA)**
-- **Model training** with ARIMA, Prophet, and LSTM
-- **Evaluation & visualization** through a Streamlit dashboard
+- **Model training & evaluation**
+- **Visualization & reporting** through a Streamlit dashboard
 
-The goal is to compare model performance and provide actionable insights for healthcare planning and policy decisions.
+## 🎯 Why It Matters
+- Highlights the importance of **data-driven decision making** in public health.  
+- Demonstrates ability to build **modular, reproducible pipelines**.  
+- Provides clear **insights for short-term vs long-term forecasting**.  
+- Shows skills in **Python, machine learning, and dashboarding** — directly relevant
 
 ## 📂 Repository Structure
 <img width="510" height="556" alt="image" src="https://github.com/user-attachments/assets/060817c1-6e58-4494-b0df-b3608ec18577" />
@@ -37,3 +43,10 @@ c. LSTM → flexible, requires tuning.
 
 ## 📈 Data Source
 Disease.sh API — global COVID-19 data
+
+## 🔹 Example Impact
+This project illustrates how different forecasting models can guide resource allocation and policy response during a pandemic. Recruiters and hiring managers can see practical skills in:
+a. End-to-end pipeline design.\
+b. Model evaluation & comparison.\
+c. Storytelling with data.\
+d. Deploying insights via dashboards.\
